@@ -1,0 +1,22 @@
+{
+    "name": "darry/composer-test",
+    "description": "这是一个composer 包测试工具",
+    "type": "library",
+    "license": "public",
+    "authors": [
+        {
+            "name": "darry",
+            "email": "1443353268@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"php":">=7.3.0"	
+    },
+    "autoload":{
+	"psr-4":{
+		"darry\\composer-test\\":"src/"
+	}
+    }
+	
+}
