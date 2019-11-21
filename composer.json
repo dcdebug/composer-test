@@ -2,7 +2,7 @@
     "name": "darry/composer-test",
     "description": "这是一个composer 包测试工具",
     "type": "library",
-    "license": "public",
+    "license": "MIT",
     "authors": [
         {
             "name": "darry",
